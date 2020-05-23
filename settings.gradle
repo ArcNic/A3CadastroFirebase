@@ -1,0 +1,2 @@
+rootProject.name='CadastroA3'
+include ':app'
