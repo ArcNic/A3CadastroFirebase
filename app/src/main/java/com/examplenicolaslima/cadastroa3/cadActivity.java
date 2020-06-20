@@ -15,6 +15,7 @@ public class cadActivity extends AppCompatActivity {
     private EditText editProduto, editPreco;
     private Button cadButton;
 
+
     private FirebaseDatabase mDatabase;
     private DatabaseReference mReference;
 

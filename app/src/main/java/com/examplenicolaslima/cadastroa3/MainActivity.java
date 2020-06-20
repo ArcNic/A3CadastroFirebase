@@ -44,6 +44,7 @@ public class MainActivity<mDatabase> extends AppCompatActivity {
         adapter = new ArrayAdapter<Produto>(MainActivity.this, android.R.layout.simple_list_item_1, listaProdutos);
         lProdutos.setAdapter( adapter );
 
+
     }
 
 
